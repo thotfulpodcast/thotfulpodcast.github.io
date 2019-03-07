@@ -3,7 +3,7 @@ title:  "This is a fake post!"
 subtitle: "(So nothing I type really matters)"
 author: "Unnas Hussain - feat. Kellie Laflin"
 avatar: "img/authors/unnas-kellie.png"
-image: "img/cheney.jpg"
+image: "img/cheney2.jpg"
 date:   2019-03-07 17:00:00
 ---
 
