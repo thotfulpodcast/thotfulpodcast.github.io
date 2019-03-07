@@ -1,11 +1,15 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+title:  "This is a fake post!"
+subtitle: "(So nothing I type really matters"
+author: "unbun"
+image: "img/cheney.jpg"
+date:   2019-03-07 17:00:00
 ---
+
+<audio controls="controls">
+  <source type="audio/mp3" src="filename.mp3"></source>
+  <p>There is no audio file.</p>
+</audio>
 
 ### Dolor sit amet?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
