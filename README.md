@@ -1,18 +1,5 @@
 #Thotful the Podcast
 
+This is the source for the Thotful podcast website.
 
-# Using the Jekyll Modern Blog
-
-A Simple, Clean and responsive modern blog for jekyll.
-
-## Attributions
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
-
-## License
-
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
-
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
-
-Changes being that I made it jekyll ready and smushed the CSS together.
+For now, using the open sources [Jeyll Modern Blog](http://jekyllthemes.org/themes/modernblog/) under a [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
