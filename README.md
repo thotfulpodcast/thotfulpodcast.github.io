@@ -1,8 +1,9 @@
-# Jekyll Modern Blog
+#Thotful the Podcast
+
+
+# Using the Jekyll Modern Blog
 
 A Simple, Clean and responsive modern blog for jekyll.
-
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
