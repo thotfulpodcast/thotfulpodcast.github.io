@@ -1,15 +1,15 @@
 ---
 title:  "This is a fake post!"
-subtitle: "(So nothing I type really matters"
-author: "unbun"
-avatar: "img/authors/unnas.png"
+subtitle: "(So nothing I type really matters)"
+author: "Unnas Hussain - feat. Kellie Laflin"
+avatar: "img/authors/unnas-kellie.png"
 image: "img/cheney.jpg"
 date:   2019-03-07 17:00:00
 ---
 
 <audio controls="controls">
   <source type="audio/mp3" src="filename.mp3"></source>
-  <p>There is no audio file.</p>
+  <p>There is no audio file because once again this is fake.</p>
 </audio>
 
 ### This would typically be a description of the episode... but it's not
