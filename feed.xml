@@ -32,5 +32,6 @@ layout: null
             <link>thotfulpodcast.github.io/feed/#/2019/03/07/fake.html</link>
             <enclosure url="https://www.thotfulpodcast.github.io/media/fake.mp3" length="4243487" type="video/mp3" />
             <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/07/fake.html</guid>
+        </item>
     </channel>
 </rss>
