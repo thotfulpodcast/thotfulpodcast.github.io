@@ -8,7 +8,7 @@ date:   2019-03-07 17:00:00
 ---
 
 <audio controls="controls">
-  <source type="audio/mp3" src="filename.mp3"></source>
+  <source type="audio/mp3" src="https://www.thotfulpodcast.github.io/media/fake.mp3"></source>
   <p>There is no audio file because once again this is fake.</p>
 </audio>
 

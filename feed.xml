@@ -15,7 +15,7 @@ layout: null
             <width>150</width>
             <height>400</height>
         </image>
-        <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self"
+        <atom:link href="{{ "feed.xml" | prepend: site.url }}" rel="self"
         type="application/rss+xml"/>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
@@ -23,14 +23,14 @@ layout: null
         <item>
             <title>This is a fake post!</title>
             <description>
-                <audio controls="controls"> <source type="audio/mp3" src="https://www.thotfulpodcast.github.io/media/.mp3" />&lt;/source&gt;
+                <audio controls="controls"> <source type="audio/mp3" src="{{"fake.mp3" | prepend: set.baseurl | prepend site.url}}" />&lt;/source&gt;
                     <p>There is no audio file because once again this is fake.</p> </audio>
                 <h3 id="this-would-typically-be-a-description-of-the-episode-but-its-not">This would typically be a description of the episode… but it’s not</h3>
                 <p>You know, because it’s fake and everything.</p>
             </description>
             <pubDate>Thu, 07 Mar 2019 17:00:00</pubDate>
             <link>thotfulpodcast.github.io/feed/#/2019/03/07/fake.html</link>
-            <enclosure url="https://www.thotfulpodcast.github.io/media/fake.mp3" length="4243487" type="video/mp3" />
+            <enclosure url="{{"fake.mp3" | prepend: set.baseurl | prepend site.url}}" length="4243487" type="video/mp3" />
             <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/07/fake.html</guid>
         </item>
     </channel>
