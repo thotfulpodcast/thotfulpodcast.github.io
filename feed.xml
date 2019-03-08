@@ -23,7 +23,7 @@ layout: null
         {% for post in site.posts limit:10 %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
-            <enclosure url= "{{ "/media/" | site.audiofile | prepend: site.url }}" />
+            <enclosure url= "{{ "/media/" | post.audiofile | prepend: site.url }}" />
             <description>{{ post.content | xml_escape }}</description>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <link>{{ site.baseurl | prepend: site.url }}#{{ post.url }}</link>
