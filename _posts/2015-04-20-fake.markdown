@@ -6,12 +6,14 @@ avatar: "img/authors/unnas-kellie.png"
 image: "img/cheney2.jpg"
 date:   2019-03-07 17:00:00
 tags:   "comedy", "thoughts", "Dick Cheney"
+metadata: "url={{ "https:/thotfulpodcast.github.io/media/fake.mp3" length="78645" type="video/mp3""
 ---
 
 <audio controls="controls">
   <source type="audio/mp3" src="filename.mp3"></source>
   <p>There is no audio file because once again this is fake.</p>
 </audio>
+
 
 ### This would typically be a description of the episode... but it's not
 You know, because it's fake and everything.

@@ -3,5 +3,5 @@ title: The Thotful Podcast
 description: The only podcast that makes you think about things you would never have have thot to think about... thotfully
 keywords: Thotful, Thoughtful, Podcast, Comedy, Squirrels
 author: Unnas Hussain and Kellie Laflin
-baseurl: "/feed/" # the subpath of your site, e.g. /blog/
+baseurl: "/media/" # the subpath of your site, e.g. /blog/
 url: "thotfulpodcast.github.io" # the base hostname & protocol for your site
