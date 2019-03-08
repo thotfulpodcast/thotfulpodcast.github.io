@@ -5,8 +5,6 @@ author: "Unnas Hussain - feat. Kellie Laflin"
 avatar: "img/authors/unnas-kellie.png"
 image: "img/cheney2.jpg"
 date:   2019-03-07 17:00:00
-tags:   "comedy", "thoughts", "Dick Cheney"
-metadata: "url={{ "https:/thotfulpodcast.github.io/media/fake.mp3" length="78645" type="video/mp3""
 ---
 
 <audio controls="controls">
