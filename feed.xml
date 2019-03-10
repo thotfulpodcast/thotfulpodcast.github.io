@@ -11,7 +11,7 @@ layout: null
         <image>
             <title>Thotful</title>
             <link>http://www.thotfulpodcast.github.io</link>
-            <url>https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/img/Thotful_Cover_Final.png</url>
+            <url>https://raw.githubusercontent.com/thotfulpodcast/thotfulpodcast.github.io/master/img/Thotful_Cover_Final.png</url>
             <width>1400</width>
             <height>1400</height>
         </image>
