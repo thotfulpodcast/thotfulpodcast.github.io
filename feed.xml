@@ -8,7 +8,6 @@ layout: null
         <description>{{ site.description | xml_escape }}</description>
         <language>en-us</language>
         <link>{{ site.url }}{{ site.baseurl }}/</link>
-	<author>Thotful Productions</author>
         <image>
             <title>Thotful</title>
             <link>http://www.thotfulpodcast.github.io</link>
@@ -20,7 +19,6 @@ layout: null
             <itunes:name>Thotful Productions</itunes:name>
             <itunes:email>thotfulpodcast@gmail.com</itunes:email>
         </itunes:owner>
-	
         <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self"
                     type="application/rss+xml"/>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
@@ -47,7 +45,8 @@ layout: null
             <pubDate>Sun, 10 Mar 2019 17:00:00</pubDate>
             <link>thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</link>
       	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/588125277-thotfulpodcast-episode-1-comedic-timing.mp3" length="26880421"/>
-            <itunes:duration>23:50</itunes:duration>
+            <author>thotfulpodcast@gmail.com (Thotful Productions)</author>
+	    <itunes:duration>23:50</itunes:duration>
     	    <itunes:summary>
               Nobody wanted this, but looks like we made it bum bum bum... if you really hate it (which you probably will) be sure to shoot us an email with your kind hearted suggestions at thotfulpodcast@gmail.com.
             </itunes:summary>
