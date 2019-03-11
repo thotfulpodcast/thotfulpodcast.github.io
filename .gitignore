@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+
+#audio files too big for their britches
+*.mp3
+
 # Folder config file
 Desktop.ini
 

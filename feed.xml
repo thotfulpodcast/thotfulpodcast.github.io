@@ -34,8 +34,7 @@ layout: null
             <category>Comedy</category>
             <pubDate>Sun, 10 Mar 2019 17:00:00</pubDate>
             <link>thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</link>
-            <enclosure url="https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/audio/episode1.mp3" />
-            <enclosure url="https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/audio/episode1.mp3" />
+      	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/588125277-thotfulpodcast-episode-1-comedic-timing.mp3" length="26880421"/>
             <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</guid>
         </item>
     </channel>
