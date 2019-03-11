@@ -20,21 +20,23 @@ layout: null
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
-        <!-- Episode 0 : Fake post -->
+        <!-- Episode 1 -  Comedic Timing-->
         <item>
-            <title>This is a fake post!</title>
+            <title>Episode 1 -  Comedic Timing</title>
             <description>
-                <audio controls="controls"> <source type="audio/mpeg" src="http://www.noiseaddicts.com/samples_1w72b820/1449.mp3" />&lt;/source&gt;
-                    <p>There is no audio file because once again this is fake.</p> </audio>
-                <h3 id="this-would-typically-be-a-description-of-the-episode-but-its-not">This would typically be a description of the episode… but it’s not.</h3>
-                <p>You know, because it’s fake and everything.</p>
+                <audio controls="controls">
+  			<source type="audio/mp3" src="https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/audio/episode1.mp3"></source>
+  			<p>Episode1</p>
+		</audio>
+                <h3 id="tthis-does-not-matter-that-much">The inaugural episode!</h3>
+                <p>Nobody wanted this, but looks like we made it bum bum bum... if you really hate it (which you probably will) be sure to shoot us an email with your kind hearted suggestions at thotfulpodcast@gmail.com.</p>
             </description>
             <category>Comedy</category>
-            <pubDate>Thu, 07 Mar 2019 17:00:00</pubDate>
-            <link>thotfulpodcast.github.io/feed/#/2019/03/07/fake.html</link>
-            <enclosure url="http://www.noiseaddicts.com/samples_1w72b820/1449.mp3" />
-            <!-- <enclosure url="{{ "/img/audio/fake.mp3" | prepend: site.url }}" /> -->
-            <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/07/fake.html</guid>
+            <pubDate>Sun, 10 Mar 2019 17:00:00</pubDate>
+            <link>thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</link>
+            <enclosure url="https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/audio/episode1.mp3" />
+            <enclosure url="https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/audio/episode1.mp3" />
+            <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</guid>
         </item>
     </channel>
 </rss>

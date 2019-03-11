@@ -1,0 +1,18 @@
+---
+title:  "Episode 1 -  Comedic Timing"
+subtitle: "The next one will probably be better"
+author: "Unnas Hussain - feat. Kellie Laflin"
+avatar: "img/authors/unnas-kellie.png"
+image: "img/Thotful_Cover_Final.png"
+date:   2019-03-10 17:00:00
+---
+
+<audio controls="controls">
+  <source type="audio/mp3" src="https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/audio/episode1.mp3"></source>
+  <p>Episode1</p>
+</audio>
+
+
+### The inaugural episode!
+Nobody wanted this, but looks like we made it bum bum bum... if you really hate it (which you probably will) be sure to shoot us an email with your kind hearted suggestions at thotfulpodcast@gmail.com. 
+
