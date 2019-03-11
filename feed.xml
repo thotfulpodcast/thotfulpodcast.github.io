@@ -15,6 +15,11 @@ layout: null
             <width>1400</width>
             <height>1400</height>
         </image>
+	<itunes:owner>
+            <itunes:name>Thotful Productions</itunes:name>
+            <itunes:email>thotfulpodcast@gmail.com</itunes:email>
+        </itunes:owner>
+	
         <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self"
                     type="application/rss+xml"/>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
