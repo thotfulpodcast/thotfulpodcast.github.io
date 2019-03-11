@@ -8,6 +8,7 @@ layout: null
         <description>{{ site.description | xml_escape }}</description>
         <language>en-us</language>
         <link>{{ site.url }}{{ site.baseurl }}/</link>
+	<author>Thotful Productions</author>
         <image>
             <title>Thotful</title>
             <link>http://www.thotfulpodcast.github.io</link>
