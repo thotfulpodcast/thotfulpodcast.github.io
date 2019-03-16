@@ -8,7 +8,7 @@ layout: null
         <description>{{ site.description | xml_escape }}</description>
         <language>en-us</language>
         <link>{{ site.url }}{{ site.baseurl }}/</link>
-	<itunes:author>Thotful Productions</itunes:author>
+        <itunes:author>Thotful Productions</itunes:author>
         <image>
             <title>Thotful</title>
             <link>http://www.thotfulpodcast.github.io</link>
@@ -16,19 +16,19 @@ layout: null
             <width>1400</width>
             <height>1400</height>
         </image>
-	<itunes:owner>
+        <itunes:owner>
             <itunes:name>Thotful Productions</itunes:name>
             <itunes:email>thotfulpodcast@gmail.com</itunes:email>
         </itunes:owner>
         <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self"
                     type="application/rss+xml"/>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-	<itunes:category text="Comedy"/>
+        <itunes:category text="Comedy"/>
         <itunes:explicit>Yes</itunes:explicit>
         <itunes:keywords>
-            Comedy,Podcast,Talk,College,Humor,Thoughts,Thoughfulness,Special Guests
+            Comedy,Podcast,Talk,College,Student,Humor,Thoughts,Thoughfulness,Special Guests
         </itunes:keywords>
-	<itunes:image href="https://raw.githubusercontent.com/thotfulpodcast/thotfulpodcast.github.io/master/img/Thotful_Cover_Final.png"/>
+        <itunes:image href="https://raw.githubusercontent.com/thotfulpodcast/thotfulpodcast.github.io/master/img/Thotful_Cover_Final.png"/>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
         <!-- Episode 1 -  Comedic Timing-->
@@ -36,20 +36,20 @@ layout: null
             <title>Episode 1 -  Comedic Timing</title>
             <description>
                 <audio controls="controls">
-  			<source type="audio/mp3" src="https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/audio/episode1.mp3"></source>
-  			<p>Episode1</p>
-		</audio>
-                <h3 id="tthis-does-not-matter-that-much">The inaugural episode!</h3>
+                    <source type="audio/mp3" src="https://github.com/thotfulpodcast/thotfulpodcast.github.io/blob/master/audio/episode1.mp3"></source>
+                    <p>Episode1</p>
+                </audio>
+                <h3 id="the-inaugural-episode">The inaugural episode!</h3>
                 <p>Nobody wanted this, but looks like we made it bum bum bum... if you really hate it (which you probably will) be sure to shoot us an email with your kind hearted suggestions at thotfulpodcast@gmail.com.</p>
             </description>
-            <category>Comedy</category>
             <pubDate>Sun, 10 Mar 2019 17:00:00</pubDate>
             <link>thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</link>
       	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/588125277-thotfulpodcast-episode-1-comedic-timing.mp3" length="26880421"/>
             <author>
                  <name>Thotful Productions</name>
             </author>
-	    <itunes:duration>23:50</itunes:duration>
+            <category>Comedy</category>
+	        <itunes:duration>23:50</itunes:duration>
     	    <itunes:summary>
               Nobody wanted this, but looks like we made it bum bum bum... if you really hate it (which you probably will) be sure to shoot us an email with your kind hearted suggestions at thotfulpodcast@gmail.com.
             </itunes:summary>
@@ -59,6 +59,35 @@ layout: null
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
 	    <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</guid>
+        </item>
+        <!-- Episode 2 -  Squirrel Portals-->
+        <item>
+            <title>Episode 2 -  Squirrel Portals</title>
+            <description>
+                <audio controls="controls">
+                    <source type="audio/mp3" src="audioNotUploadedYet.mp3.mp3"></source>
+                    <p>Episode2</p>
+                </audio>
+                <h3 id="the-inaugural-episode">It didn't take for long for this to go down hill, huh?</h3>
+                <p>"Dibs on not being the one to come up with something funny for the site post" - Unnas</p>
+            </description>
+            <pubDate>Sun, 16 Mar 2019 17:00:00</pubDate>
+            <link>thotfulpodcast.github.io/feed/#/2019/03/16/squirrel</link>
+            <enclosure type="audio/mpeg" url="audioNotUploadedYet.mp3" length="26880421"/>
+            <author>
+                <name>Thotful Productions</name>
+            </author>
+            <category>Comedy</category>
+            <itunes:duration>33:56</itunes:duration>
+            <itunes:summary>
+                "Dibs on not being the one to come up with something funny for the site post" - Unnas
+            </itunes:summary>
+            <itunes:image href="https://raw.githubusercontent.com/thotfulpodcast/thotfulpodcast.github.io/master/img/Thotful_Cover_Final.png"/>
+            <itunes:keywords>
+                Podcast,Comedy,Funny,Squirrel,Ants,3 Squirrels in a Trench Coat,Portals,Benedict Cumberbatch,Giraffe,Gordon Ramsay,Eggs,Toast,Fyre Fest,Oxygen,Vegan,Fast Food,Cilantro,Soap,Giraffe Facts
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/16/squirrel</guid>
         </item>
     </channel>
 </rss>
