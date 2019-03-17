@@ -60,7 +60,7 @@ layout: null
             <itunes:explicit>yes</itunes:explicit>
 	    <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</guid>
         </item>
-        <!-- Episode 2 -  Squirrel Portals-->
+        <!-- Episode 2 -  Squirrel Portals
         <item>
             <title>Episode 2 -  Squirrel Portals</title>
             <description>
@@ -88,6 +88,6 @@ layout: null
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
             <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/16/squirrel</guid>
-        </item>
+        </item>-->
     </channel>
 </rss>
