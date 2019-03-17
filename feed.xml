@@ -43,7 +43,7 @@ layout: null
                 <p>Nobody wanted this, but looks like we made it bum bum bum... if you really hate it (which you probably will) be sure to shoot us an email with your kind hearted suggestions at thotfulpodcast@gmail.com.</p>
             </description>
             <pubDate>Sun, 10 Mar 2019 17:00:00</pubDate>
-            <link>thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</link>
+            <link>thotfulpodcast.github.io/#/2019/03/10/comedic.html</link>
       	    <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/588125277-thotfulpodcast-episode-1-comedic-timing.mp3" length="26880421"/>
             <author>
                  <name>Thotful Productions</name>
@@ -58,22 +58,22 @@ layout: null
                 Podcast,Comedy,Funny,Clouds,Fish,Parables,Dog,Dog Pants,Die Hard,Pediatrician
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
-	    <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/10/comedic.html</guid>
+	    <guid isPermaLink="true">thotfulpodcast.github.io/#/2019/03/10/comedic.html</guid>
         </item>
-        <!-- Episode 2 -  Squirrel Portals
+        <!-- Episode 2 -  Squirrel Portals-->
         <item>
             <title>Episode 2 -  Squirrel Portals</title>
             <description>
                 <audio controls="controls">
-                    <source type="audio/mp3" src="audioNotUploadedYet.mp3.mp3"></source>
+                    <source type="audio/mp3" src="http://feeds.soundcloud.com/stream/591509961-thotfulpodcast-episode-2-squirrel-portals.mp3"></source>
                     <p>Episode2</p>
                 </audio>
                 <h3 id="the-inaugural-episode">It didn't take for long for this to go down hill, huh?</h3>
-                <p>"Dibs on not being the one to come up with something funny for the site post" - Unnas</p>
+                <p>"Dibs on not being the one to come up with something funny for the description" - Unnas</p>
             </description>
             <pubDate>Sun, 16 Mar 2019 17:00:00</pubDate>
-            <link>thotfulpodcast.github.io/feed/#/2019/03/16/squirrel</link>
-            <enclosure type="audio/mpeg" url="audioNotUploadedYet.mp3" length="26880421"/>
+            <link>https://thotfulpodcast.github.io/#/2019/03/16/squirrel</link>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/591509961-thotfulpodcast-episode-2-squirrel-portals.mp3" length="26880421"/>
             <author>
                 <name>Thotful Productions</name>
             </author>
@@ -87,7 +87,7 @@ layout: null
                 Podcast,Comedy,Funny,Squirrel,Ants,3 Squirrels in a Trench Coat,Portals,Benedict Cumberbatch,Giraffe,Gordon Ramsay,Eggs,Toast,Fyre Fest,Oxygen,Vegan,Fast Food,Cilantro,Soap,Giraffe Facts
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
-            <guid isPermaLink="true">thotfulpodcast.github.io/feed/#/2019/03/16/squirrel</guid>
-        </item>-->
+            <guid isPermaLink="true">thotfulpodcast.github.io/#/2019/03/16/squirrel</guid>
+        </item>
     </channel>
 </rss>
