@@ -8,7 +8,7 @@ date:   2019-03-16 17:00:00
 ---
 
 <audio controls="controls">
-<source type="audio/mpeg" src="audio not uploaded yet :)"></source>
+<source type="audio/mpeg" src="http://feeds.soundcloud.com/stream/591509961-thotfulpodcast-episode-2-squirrel-portals.mp3"></source>
   <p>Episode2</p>
 </audio>
 
