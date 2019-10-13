@@ -1,0 +1,19 @@
+---
+title:  "Episode 3 - Ursula is Kevin Bacon"
+subtitle: "The second giraffe baby related episode"
+author: "Unnas Hussain - feat. Kellie Laflin and Lillie Hoffart"
+avatar: "img/authors/unnas-kellie.png"
+image: "img/Thotful_Cover_Final.png"
+date:   2019-10-12 17:00:00
+---
+
+<audio controls="controls">
+<source type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/694936861-thotfulpodcast-usrula-is-kevin-bacon.m4a" length="68962344"></source>
+  <p>Episod3</p>
+</audio>
+
+
+### The second giraffe baby related episode.
+We're back and we're recording from inside of a tunnel, because that what the fans want!
+Thanks to special guest star Lillie Hoffart. She didn't give us anything to plug, so show her your support by appreciating your local rabbits!
+(also don't forget to email your thots to thotfulpodcast@gmail.com)

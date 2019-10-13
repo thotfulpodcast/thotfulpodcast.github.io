@@ -89,7 +89,7 @@ layout: null
             <itunes:explicit>yes</itunes:explicit>
             <guid isPermaLink="true">thotfulpodcast.github.io/#/2019/03/16/squirrel</guid>
         </item>
-	 <!-- Episode 3 -  Ursula is Kevin Bacon-->
+	   <!-- Episode 3 -  Ursula is Kevin Bacon-->
         <item>
             <title>Episode 3 - Ursula is Kevin Bacon</title>
             <description>
@@ -99,7 +99,7 @@ layout: null
                 </audio>
                 <h3 id="the-seccond-giraffe-related-episode-of-this-three-episode-podcast">The second giraffe baby related episode</h3>
                 <p>We're back and we're recording from inside of a tunnel, because that what the fans want!
-		Thanks to special guest star Lillie Hoffart. She didn't give us anything to plug, so show her your support by appreciating your local rabbits!</p>
+                    Thanks to special guest star Lillie Hoffart. She didn't give us anything to plug, so show her your support by appreciating your local rabbits!</p>
             </description>
             <pubDate>Sun, 12 Oct 2019 17:00:00</pubDate>
             <link>https://thotfulpodcast.github.io/#/2019/10/12/ursula_kevin_bacon</link>
@@ -110,13 +110,13 @@ layout: null
             <category>Comedy</category>
             <itunes:duration>34:52</itunes:duration>
             <itunes:summary>
-		We're back and we're recording from inside of a tunnel, because that what the fan(s) want!
-		Thanks to special guest star Lillie Hoffart. She didn't give us anything to plug, so show her your support by appreciating your local rabbits!
+                We're back and we're recording from inside of a tunnel, because that what the fan(s) want!
+                Thanks to special guest star Lillie Hoffart. She didn't give us anything to plug, so show her your support by appreciating your local rabbits!
             </itunes:summary>
             <itunes:image href="https://raw.githubusercontent.com/thotfulpodcast/thotfulpodcast.github.io/master/img/Thotful_Cover_Final.png"/>
             <itunes:keywords>
-		    Podcast,Comedy,Funny, Giraffes, Winter Sports, Rap, Lil Nas X, Temperature-Based Rap, Ursula, Tritan, Little Mermaid, Kevin Bacon, Salsa ASMR, Sloths, Gorrillas, Ban Ki Moon, Secretariat, United Nations, The Devil            
-	    </itunes:keywords>
+		    Podcast,Comedy,Funny, Giraffes, Winter Sports, Rap, Lil Nas X, Temperature-Based Rap, Ursula, Tritan, Little Mermaid, Kevin Bacon, Salsa ASMR, Sloths, Gorrillas, Ban Ki Moon, Secretariat, United Nations, The Devil           
+	        </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
             <guid isPermaLink="true">thotfulpodcast.github.io/#/2019/10/12/ursula_kevin_bacon</guid>
         </item>
