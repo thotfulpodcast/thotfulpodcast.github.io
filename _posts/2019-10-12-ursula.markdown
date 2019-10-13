@@ -8,10 +8,9 @@ date:   2019-10-12 17:00:00
 ---
 
 <audio controls="controls">
-<source type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/694936861-thotfulpodcast-usrula-is-kevin-bacon.m4a" length="68962344"></source>
-  <p>Episod3</p>
+<source type="audio/mpeg" url="http://feeds.soundcloud.com/stream/694950112-thotfulpodcast-episode-3-ursula-is-kevin-bacon-1.mp3" length="33460522"></source>
+	<p>Episode3</p>
 </audio>
-
 
 ### The second giraffe baby related episode.
 We're back and we're recording from inside of a tunnel, because that what the fans want!

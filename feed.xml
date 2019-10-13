@@ -94,7 +94,7 @@ layout: null
             <title>Episode 3 - Ursula is Kevin Bacon</title>
             <description>
                 <audio controls="controls">
-                    <source type="audio/mpeg" url="http://feeds.soundcloud.com/stream/694946581-thotfulpodcast-episode-3-ursula-is-kevin-bacon.mp3" length="33460522"></source>
+                    <source type="audio/mpeg" url="http://feeds.soundcloud.com/stream/694950112-thotfulpodcast-episode-3-ursula-is-kevin-bacon-1.mp3" length="33460522"></source>
                     <p>Episode3</p>
                 </audio>
                 <h3 id="the-seccond-giraffe-related-episode-of-this-three-episode-podcast">The second giraffe baby related episode</h3>
@@ -103,7 +103,7 @@ layout: null
             </description>
             <pubDate>Sun, 12 Oct 2019 17:00:00</pubDate>
             <link>https://thotfulpodcast.github.io/#/2019/10/12/ursula_kevin_bacon</link>
-            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/694946581-thotfulpodcast-episode-3-ursula-is-kevin-bacon.mp3" length="33460522"/>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/694950112-thotfulpodcast-episode-3-ursula-is-kevin-bacon-1.mp3" length="33460522"/>
             <author>
                 <name>Thotful Productions</name>
             </author>
