@@ -8,11 +8,12 @@ date:   2019-10-12 17:00:00
 ---
 
 <audio controls="controls">
-<source type="audio/mpeg" url="http://feeds.soundcloud.com/stream/694950112-thotfulpodcast-episode-3-ursula-is-kevin-bacon-1.mp3"></source>
+<source type="audio/mpeg" src="http://feeds.soundcloud.com/stream/694950112-thotfulpodcast-episode-3-ursula-is-kevin-bacon-1.mp3"></source>
 	<p>Episode3</p>
 </audio>
+
 
 ### The second giraffe baby related episode.
 We're back and we're recording from inside of a tunnel, because that what the fans want!
 Thanks to special guest star Lillie Hoffart. She didn't give us anything to plug, so show her your support by appreciating your local rabbits!
-(also don't forget to email your thots to thotfulpodcast@gmail.com)
+Don't forget to email your thots to thotfulpodcast@gmail.com
