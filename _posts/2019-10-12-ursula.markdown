@@ -8,7 +8,7 @@ date:   2019-10-12 17:00:00
 ---
 
 <audio controls="controls">
-<source type="audio/mpeg" url="http://feeds.soundcloud.com/stream/694950112-thotfulpodcast-episode-3-ursula-is-kevin-bacon-1.mp3" length="33460522"></source>
+<source type="audio/mpeg" url="http://feeds.soundcloud.com/stream/694950112-thotfulpodcast-episode-3-ursula-is-kevin-bacon-1.mp3"></source>
 	<p>Episode3</p>
 </audio>
 
